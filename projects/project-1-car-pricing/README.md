@@ -21,3 +21,11 @@
 - Mediana: 3,4
 - Deviazione standard: 1,43205309
 
+**Age**
+- Min: 2
+- Max: 25
+- Media: 13,3732
+- Mediana: 13
+- Deviazione standard: 6,991700459
+
+  
